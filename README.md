@@ -1,9 +1,9 @@
 # Minimo-Blog-Demo
-Click [HERE](https://diana-dai.github.io/E-Commerce-Website-Demo/build/index.html) to see the demo
+Click [HERE](https://diana-dai.github.io/Minimo-Blog-Demo/build/index.html) to see the demo
 
 A FAST and ANIMATED Minimo website demo.
 
-![image](https://github.com/Diana-Dai/E-Commerce-Website/blob/master/IMGS/index.png)
+![image](https://diana-dai.github.io/Minimo-Blog-Demo/build/index.html)
 
 
 Built with:
