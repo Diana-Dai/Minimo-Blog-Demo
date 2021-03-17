@@ -3,7 +3,7 @@ Click [HERE](https://diana-dai.github.io/Minimo-Blog-Demo/build/index.html) to s
 
 A FAST and ANIMATED Minimo website demo.
 
-![image](https://diana-dai.github.io/Minimo-Blog-Demo/build/index.html)
+![image](https://github.com/Diana-Dai/Minimo-Blog-Demo/blob/main/Minimo.jpg)
 
 
 Built with:
